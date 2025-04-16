@@ -1,2 +1,4 @@
 # ML_for_quant
-ML template for financial data training
+
+## Lasso_scratch
+    modify and improve the code of scikit Lasso and LassoCV
